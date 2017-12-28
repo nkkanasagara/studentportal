@@ -1,0 +1,16 @@
+package com.sns.validate;
+
+/*public class PolicyResource {
+	
+	private String name;
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+}
+*/
